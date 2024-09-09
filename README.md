@@ -78,4 +78,4 @@ The system is designed with the following tasks:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/SeatHeaterControlSystem.git
+   git clone https://github.com/Abd002/SeatHeaterControlSystem.git
